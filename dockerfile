@@ -6,4 +6,3 @@ RUN apt-get update
 
 # Copiez les fichiers nécessaires pour le web
 COPY /files/ /usr/share/nginx/html
-
